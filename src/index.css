@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.password-mask-style {
+  -webkit-text-security: disc;
+  text-security: disc;
+}

@@ -1,0 +1,22 @@
+{
+  "value": [
+    {
+      "id": "1",
+      "displayName": "Alice Example",
+      "mail": "alice@example.com",
+      "jobTitle": "Product Manager"
+    },
+    {
+      "id": "2",
+      "displayName": "Bob Tester",
+      "mail": "bob@example.com",
+      "jobTitle": "Engineer"
+    },
+    {
+      "id": "3",
+      "displayName": "Charlie Support",
+      "mail": "charlie@example.com",
+      "jobTitle": "Customer Success"
+    }
+  ]
+}
