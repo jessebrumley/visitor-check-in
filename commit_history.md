@@ -29,7 +29,7 @@
   *Pushing Crystal's files*
 
 - **da549363** — *08/08/2025 11:33 AM* — **Evan Markle**  
-  *Merge branch 'evbranch' of https://redmine.cymstar.com/git/atlas-2025-visitor-registration.master into evbranch*
+  *Merge branch 'evbranch' of [] into evbranch*
 
 ---
 
@@ -56,7 +56,7 @@
   *feat: US Citizenship confirmation button as optional field*
 
 - **da549363** — *08/08/2025 11:33 AM* — **Evan Markle**  
-  *Merge branch 'evbranch' of https://redmine.cymstar.com/git/atlas-2025-visitor-registration.master into evbranch*
+  *Merge branch 'evbranch' of [] into evbranch*
 
 - **ef877762** — *08/08/2025 11:33 AM* — **jessebrumley**  
   *Can log into admin from home screen by tapping the logo*
@@ -74,7 +74,7 @@
   *Pushing Crystal's files*
 
 - **da549363** — *08/08/2025 11:33 AM* — **Evan Markle**  
-  *Merge branch 'evbranch' of https://redmine.cymstar.com/git/atlas-2025-visitor-registration.master into evbranch*
+  *Merge branch 'evbranch' of [] into evbranch*
 
 - **ef877762** — *08/08/2025 11:33 AM* — **jessebrumley**  
   *Can log into admin from home screen by tapping the logo*
@@ -98,7 +98,7 @@
 
 ## Evan’s Branch
 - **da549363** — *08/08/2025 11:33 AM* — **Evan Markle**  
-  *Merge branch 'evbranch' of https://redmine.cymstar.com/git/atlas-2025-visitor-registration.master into evbranch*
+  *Merge branch 'evbranch' of [] into evbranch*
 
 - **ef877762** — *08/08/2025 11:33 AM* — **jessebrumley**  
   *Can log into admin from home screen by tapping the logo*
